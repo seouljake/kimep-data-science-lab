@@ -1,0 +1,361 @@
+Fruit
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Fruit (disambiguation).
+
+Various culinary fruits
+
+Caraway fruits. A common mistake is to call these and similar ones "seeds".
+
+Pomegranate display of the exocarp (right) and seeds and edible sarcotesta (left)
+In botany, a fruit is the seed-bearing structure in flowering plants that is formed from the ovary after flowering.
+
+Fruits are the means by which flowering plants (also known as angiosperms) disseminate their seeds. Edible fruits in particular have long propagated using the movements of humans and animals in a symbiotic relationship that is the means for seed dispersal for the one group and nutrition for the other; in fact, humans and many animals have become dependent on fruits as a source of food.[1] Consequently, fruits account for a substantial fraction of the world's agricultural output, and some (such as the apple and the pomegranate) have acquired extensive cultural and symbolic meanings.
+
+In common language usage, "fruit" normally means the seed-associated fleshy structures (or produce) of plants that typically are sweet or sour and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. In botanical usage, the term "fruit" also includes many structures that are not commonly called "fruits" in everyday language, such as nuts, bean pods, corn kernels, tomatoes, and wheat grains.[2][3]
+
+
+Contents
+1	Botanical vs. culinary
+2	Structure
+3	Development
+4	Classification of fruits
+4.1	Simple fruits
+4.1.1	Berries
+4.2	Aggregate fruits
+4.3	Multiple fruits
+4.4	Accessory fruit forms
+4.5	Table of fleshy fruit examples
+5	Seedless fruits
+6	Seed dissemination
+7	Food uses
+7.1	Storage
+7.2	Nutritional value
+7.3	Food safety
+7.4	Allergies
+8	Nonfood uses
+9	See also
+10	References
+11	Further reading
+12	External links
+Botanical vs. culinary
+
+An arrangement of fruits commonly thought of as culinary vegetables, including corn (maize), tomatoes, and various squash
+Many common language terms used for fruit and seeds differ from botanical classifications. For example, in botany, a fruit is a ripened ovary or carpel that contains seeds; e.g., an apple, pomegranate, tomato or a pumpkin. A nut is a type of fruit (and not a seed), and a seed is a ripened ovule.[4]
+
+In culinary language, a fruit is the sweet- or not sweet- (even sour-) tasting produce of a specific plant (e.g., a peach, pear or lemon); nuts are hard, oily, non-sweet plant produce in shells (hazelnut, acorn). Vegetables, so called, typically are savory or non-sweet produce (zucchini, lettuce, broccoli, and tomato); but some may be sweet-tasting (sweet potato).[5]
+
+Examples of botanically classified fruit that typically are called vegetables include: cucumber, pumpkin, and squash (all are cucurbits); beans, peanuts, and peas (all legumes); corn, eggplant, bell pepper (or sweet pepper), and tomato (see image). The spices chili pepper and allspice are fruits, botanically speaking.[4] In contrast, rhubarb is often called a fruit when used in making pies, but the edible produce of rhubarb is actually the leaf stalk or petiole of the plant.[6] Edible gymnosperm seeds are often given fruit names, e.g., ginkgo nuts and pine nuts.
+
+Botanically, a cereal grain, such as corn, rice, or wheat is a kind of fruit (termed a caryopsis). However, the fruit wall is thin and fused to the seed coat, so almost all the edible grain-fruit is actually a seed.[7]
+
+Structure
+Main article: Fruit anatomy
+The outer layer, often edible, of most fruits is called the pericarp. Typically formed from the ovary, it surrounds the seeds; in some species, however, other structural tissues contribute to or form the edible portion. The pericarp may be described in three layers from outer to inner, i.e., the epicarp, mesocarp and endocarp.
+
+Fruit that bears a prominent pointed terminal projection is said to be beaked.[8]
+
+Development
+A fruit results from the fertilizing and maturing of one or more flowers. The gynoecium, which contains the stigma-style-ovary system, is centered in the flower-head, and it forms all or part of the fruit —(see graphic: 'the parts of a flower').[9] Inside the ovary(ies) are one or more ovules. Here begins a complex sequence called double fertilization: a female gametophyte produces an egg cell for the purpose of fertilization.[10] (A female gametophyte is called a megagametophyte, and also called the embryo sac.) After double fertilization, the ovules will become seeds.
+
+Ovules are fertilized in a process that starts with pollination, which is the movement of pollen from the stamens to the stigma-style-ovary system within the flower-head, (see graphic). After pollination, a pollen tube grows from the (deposited) pollen through the stigma down the style into the ovary to the ovule. Two sperm are transferred from the pollen to a megagametophyte. Within the megagametophyte one sperm unites with the egg, forming a zygote, while the second sperm enters the central cell forming the endosperm mother cell, which completes the double fertilization process.[11][12] Later the zygote will give rise to the embryo of the seed, and the endosperm mother cell will give rise to endosperm, a nutritive tissue used by the embryo.
+
+As the ovules develop into seeds, the ovary begins to ripen and the ovary wall, the pericarp, may become fleshy (as in berries or drupes), or it may form a hard outer covering (as in nuts). In some multiseeded fruits, the extent to which a fleshy structure develops is proportional to the number of fertilized ovules.[13] The pericarp typically is differentiated into two or three distinct layers; these are called the exocarp (outer layer, also called epicarp), mesocarp (middle layer), and endocarp (inner layer) —(see image of apple-section).
+
+In some fruits the sepals, petals, stamens and/or the style of the flower fall away as the fleshy fruit ripens. However, for simple fruits derived from an inferior ovary —i.e., one that lies below the attachment of other floral parts, (see graphic re 'insertion point')— there are parts (including petals, sepals, and stamens) that fuse with the ovary and ripen with it. For such a case, when floral parts other than the ovary form a significant part of the fruit that develops, it is called an accessory fruit. Examples of accessory fruits include apple, rose hip, strawberry, pineapple; see below, and "Table of fleshy fruit examples".
+
+Because several parts of the flower besides the ovary may contribute to the structure of a fruit, it is important to study flower structure to understand how a particular fruit forms.[3] There are three general modes of fruit development:
+
+Apocarpous fruits develop from a single flower (while having one or more separate, unfused, carpels); they are the simple fruits.
+Syncarpous fruits develop from a single gynoecium (having two or more carpels fused together).
+Multiple fruits form from many flowers —i.e., an inflorescence of flowers.
+The development sequence of a typical drupe, the nectarine (Prunus persica) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer (see image page for further information)
+The development sequence of a typical drupe, the nectarine (Prunus persica) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer (see image page for further information)
+
+ 
+The parts of a flower, showing the stigma-style-ovary system.
+The parts of a flower, showing the stigma-style-ovary system.
+
+ 
+An apple is a simple fleshy fruit. Key parts are the epicarp, or exocarp, or outer skin, (not labelled); and the mezocarp and endocarp (labelled).
+An apple is a simple fleshy fruit. Key parts are the epicarp, or exocarp, or outer skin, (not labelled); and the mezocarp and endocarp (labelled).
+
+ 
+Insertion point: There are three positions of insertion of the ovary at the base of a flower: I superior; II half-inferior; III inferior. The 'insertion point' is where the androecium parts (a), the petals (p), and the sepals (s) all converge and attach to the receptacle (r). (Ovary= gynoecium (g).)
+Insertion point: There are three positions of insertion of the ovary at the base of a flower: I superior; II half-inferior; III inferior. The 'insertion point' is where the androecium parts (a), the petals (p), and the sepals (s) all converge and attach to the receptacle (r). (Ovary= gynoecium (g).)
+
+ 
+In the noni, flowers are produced in time-sequence along the stem. It is possible to see a progression of flowering, fruit development, and fruit ripening.
+In the noni, flowers are produced in time-sequence along the stem. It is possible to see a progression of flowering, fruit development, and fruit ripening.
+
+Classification of fruits
+
+Dewberry flowers. Note the multiple pistils, each of which will produce a drupelet. Each flower will become a blackberry-like aggregate fruit.
+
+Dewberry fruit
+Consistent with the three modes of fruit development plant scientists have classified fruits into three main groups: simple fruits, aggregate fruits, and multiple (or composite) fruits.[14] The groupings reflect how the ovary and other flower organs are arranged and how the fruits develop, but they are not evolutionarily relevant as diverse plant taxa may be in the same group.
+
+While the section of a fungus that produces spores is called a fruiting body,[15] fungi are members of the fungi kingdom and not of the plant kingdom.
+
+Simple fruits
+
+A dry simple fruit: milkweed (Asclepias syriaca); dehiscence of the follicular fruit reveals seeds within.
+Simple fruits are the result of the ripening-to-fruit of a simple or compound ovary in a single flower with a single pistil. In contrast, a single flower with numerous pistils typically produces an aggregate fruit; and the merging of several flowers, or a 'multiple' of flowers, results in a 'multiple' fruit.[16] A simple fruit is further classified as to whether it is dry or fleshy.
+
+To distribute their seeds, dry fruits may split open and discharge their seeds to the winds, which is called dehiscence.[17] Or the distribution process may rely upon the decay and degradation of the fruit to expose the seeds; or it may rely upon the eating of fruit and excreting of seeds by frugivores —both are called indehiscence. Fleshy fruits do not split open, but they also are indehiscent and they may also rely on frugivores for distribution of their seeds. Typically, the entire outer layer of the ovary wall ripens into a potentially edible pericarp.
+
+Types of dry simple fruits, (with examples) include:
+
+achene – most commonly seen in aggregate fruits (e.g., strawberry, see below).
+capsule – (Brazil nut: botanically, it is not a nut).
+caryopsis – (cereal grains, including wheat, rice, oats, barley).
+cypsela – an achene-like fruit derived from the individual florets in a capitulum: (dandelion).
+fibrous drupe – (coconut, walnut: botanically, neither is a true nut.).
+follicle – follicles are formed from a single carpel, and opens by one suture: (milkweed); also commonly seen in aggregate fruits: (magnolia, peony).
+legume – (bean, pea, peanut: botanically, the peanut is the seed of a legume, not a nut).
+loment – a type of indehiscent legume: (sweet vetch or wild potato).
+nut – (beechnut, hazelnut, acorn (of the oak): botanically, these are true nuts).
+samara – (ash, elm, maple key).
+schizocarp, see below – (carrot seed).
+silique – (radish seed).
+silicle – (shepherd's purse).
+utricle – (beet, Rumex).
+Fruits in which part or all of the pericarp (fruit wall) is fleshy at maturity are termed fleshy simple fruits.
+
+Types of fleshy simple fruits, (with examples) include:
+
+berry – The berry is the most common type of fleshy fruit. The entire outer layer of the ovary wall ripens into a potentially edible "pericarp", (see below).
+stone fruit or drupe – The definitive characteristic of a drupe is the hard, "lignified" stone (sometimes called the "pit"). It is derived from the ovary wall of the flower: apricot, cherry, olive, peach, plum, mango.
+pome – The pome fruits: apples, pears, rosehips, saskatoon berry, et al., are a syncarpous (fused) fleshy fruit, a simple fruit, developing from a half-inferior ovary, see graphic re 'Insertion point'.[18] Pomes are of the family Rosaceae,
+Berries
+Main articles: Berry (botany) and Berry
+
+Fruits of four different banana cultivars (Bananas are berries.)
+
+Strawberry, showing achenes attached to surface. Botanically, strawberries are not berries; they are classified as an aggregate accessory fruit.
+
+Flower of Magnolia × wieseneri showing the many pistils making up the gynoecium in the middle of the flower. The fruit of this flower is an aggregation of follicles.
+Berries are a type of simple fleshy fruit that issue from a single ovary.[19] (The ovary itself may be compound, with several carpels.) The botanical term "true berry" includes grapes, currants, cucumbers, eggplants (aubergines), tomatoes, chili peppers, and bananas, but excludes certain fruits that are called "-berry" by culinary custom or by common usage of the term —such as strawberries and raspberries. Berries may be formed from one or more carpels (i.e., from the simple or compound ovary) from the same, single flower. Seeds typically are embedded in the fleshy interior of the ovary.
+
+Examples here and in the table below:
+
+tomato – In culinary terms, the tomato is regarded as a vegetable, but it is botanically classified as a fruit and a berry.[20]
+banana – The fruit has been described as a "leathery berry".[21] In cultivated varieties, the seeds are diminished nearly to non-existence.
+pepo – Berries with skin that is hardened: cucurbits, including gourds, squash, melons.
+hesperidium – Berries with a rind and a juicy interior: most citrus fruit.
+cranberry, gooseberry, redcurrant, grape.
+The strawberry, regardless of its appearance, is classified as a dry, not a fleshy fruit. Botanically, it is not a berry; it is an aggregate-accessory fruit, the latter term meaning the fleshy part is derived not from the plant's ovaries but from the receptacle that holds the ovaries.[22] Numerous dry achenes are attached to the outside of the fruit-flesh, (see image); they appear to be seeds but each is actually an ovary of a flower, with a seed inside.[22]
+
+Schizocarps are dry fruits, though some appear to be fleshy. They originate from syncarpous ovaries but do not actually dehisce; rather, they split into segments with one or more seeds. They include a number of different forms from a wide range of families, including carrot, parsnip, parsley, cumin.[14]
+
+Aggregate fruits
+Main article: Aggregate fruit
+
+Detail of the raspberry flower: there is a clustering of pistils at the center of the flower. (A pistil consists of stigma, style, and ovary.) The stigma is the apical (at the apex) nodule that receives pollen; the style is the stem-like column that extends down to the ovary, which is the basal part that contains the seed-forming ovule.
+
+Lilium unripe capsule fruit; an aggregate fruit.
+An aggregate fruit is also called an aggregation, or etaerio; it develops from a single flower that presents numerous simple pistils (see graphic of raspberry pistils).[16] Each pistil contains one carpel; together they form a fruitlet. The ultimate (fruiting) development of the aggregation of pistils is called an aggregate fruit, etaerio fruit, or simply an etaerio.
+
+Different types of aggregate fruits can produce different etaerios, such as achenes, drupelets, follicles, and berries.
+
+For example, the Ranunculaceae species, including Clematis and Ranunculus, produces an etaerio of achenes;
+
+Rubus species, including raspberry: an etaerio of drupelets;
+
+Calotropis species: an etaerio of follicles fruit;
+
+Annona species: an etaerio of berries.[23][24]
+
+Some other broadly recognized species and their etaerios (or aggregations) are:
+
+Teasel; fruit is an aggregation of cypselas.
+Tuliptree; fruit is an aggregation of samaras.
+Magnolia and peony; fruit is an aggregation of follicles.
+American sweet gum; fruit is an aggregation of capsules.
+Sycamore; fruit is an aggregation of achenes.
+The raspberry; its pistils are called drupelets because each pistil is like a small drupe attached to the receptacle. In some bramble fruits such as blackberry the receptacle, an accessory part, elongates and then develops as part of the fruit, making the blackberry an aggregate-accessory fruit.[25] The strawberry is also an aggregate-accessory fruit, of which the seeds are contained in the achenes.[26] Notably in all these examples, the fruit develops from a single flower, with numerous pistils.
+
+Multiple fruits
+Main article: Multiple fruit
+A multiple fruit is formed from a cluster of flowers, (a 'multiple' of flowers) —also called an inflorescence. Each ('smallish') flower produces a single fruitlet, which, as all develop, all merge into one mass of fruit.[27] Examples include pineapple, fig, mulberry, Osage orange, breadfruit. An inflorescence (a cluster) of white flowers, called a head, is produced first. After fertilization, each flower in the cluster develops into a drupe; as the drupes expand, they develop as a connate organ, merging into a multiple fleshy fruit called a syncarp.
+
+Progressive stages of multiple flowering and fruit development can be observed on a single branch of the Indian mulberry, or noni, (see image). During the sequence of development, a progression of second, third, and more inflorescences are initiated in turn at the head of the branch or stem.
+
+Accessory fruit forms
+Main article: Accessory fruit
+Fruits may incorporate tissues derived from other floral parts besides the ovary, including the receptacle, hypanthium, petals, or sepals. Accessory fruits occur in all three classes of fruit development—simple, aggregate, and multiple. Accessory fruits are frequently designated by the hyphenated term showing both characters. For example, a pineapple is a multiple-accessory fruit. a blackberry is an aggregate-accessory fruit, and an apple is a simple-accessory fruit.
+
+Table of fleshy fruit examples
+Types of fleshy fruits
+Type	Examples
+Simple fleshy fruit	True berry, Stone fruit, Pome
+Aggregate fruit	Boysenberry, Lilium, Magnolia, Raspberry, Pawpaw, Blackberry, Strawberry
+Multiple fruit	Fig, Osage orange, Mulberry, Pineapple
+True berry	Banana, Blackcurrant, Blueberry, Chili pepper, Cranberry, Eggplant, Gooseberry,
+Grape, Guava, Kiwifruit, Lucuma, Pomegranate, Redcurrant, Tomato, Watermelon
+True berry: Pepo	Cucumber, Gourd, Melon, Pumpkin
+True berry: Hesperidium	Grapefruit, Lemon, Lime, Orange
+Accessory fruit	Apple, Rose hip, Stone fruit, Pineapple, Blackberry, Strawberry
+Seedless fruits
+
+The fruit of a pineapple includes tissue from the sepals as well as the pistils of many flowers. It is a multiple-accessory fruit.
+Seedlessness is an important feature of some fruits of commerce. Commercial cultivars of bananas and pineapples are examples of seedless fruits. Some cultivars of citrus fruits (especially grapefruit, mandarin oranges, navel oranges), satsumas, table grapes, and of watermelons are valued for their seedlessness. In some species, seedlessness is the result of parthenocarpy, where fruits set without fertilization. Parthenocarpic fruit-set may (or may not) require pollination, but most seedless citrus fruits require a stimulus from pollination to produce fruit.[28] Seedless bananas and grapes are triploids, and seedlessness results from the abortion of the embryonic plant that is produced by fertilization, a phenomenon known as stenospermocarpy, which requires normal pollination and fertilization.[29]
+
+Seed dissemination
+Variations in fruit structures largely depend on the modes of dispersal applied to their seeds. Dispersal is achieved by wind or water, by explosive dehiscence, and by interactions with animals.[30]
+
+Some fruits present their outer skins or shells coated with spikes or hooked burrs; these evolved either to deter would-be foragers from feeding on them, or to serve to attach themselves to the hair, feathers, legs, or clothing of animals, thereby using them as dispersal agents. These plants are termed zoochorous; common examples include cocklebur, unicorn plant, and beggarticks (or Spanish needle).[31][32]
+
+By developments of mutual evolution the fleshy produce of fruits typically appeals to hungry animals, such that the seeds contained within are taken in, carried away and later deposited (i.e., defecated) at a distance from the parent plant. Likewise, the nutritious, oily kernels of nuts typically motivate birds and squirrels to hoard them, burying them in soil to retrieve later during the winter of scarcity; thereby, uneaten seeds are sown effectively under natural conditions to germinate and grow a new plant some distance away from the parent.[4]
+
+Other fruits have evolved flattened and elongated wings or helicopter-like blades, e.g., elm, maple, and tuliptree. This mechanism increases dispersal distance away from the parent via wind. Other wind-dispersed fruit have tiny "parachutes", e.g., dandelion, milkweed, salsify.[30]
+
+Coconut fruits can float thousands of miles in the ocean, thereby spreading their seeds. Other fruits that can disperse via water are nipa palm and screw pine.[30]
+
+Some fruits have evolved propulsive mechanisms that fling seeds substantial distances —(perhaps up to 100 m in the case of the sandbox tree)— via explosive dehiscence or other such mechanisms, (see impatiens and squirting cucumber.[33]
+
+Food uses
+
+Picking blackberries in Oklahoma
+A cornucopia of fruits —fleshy (simple) fruits from apples to berries to watermelon; dry (simple) fruits including beans and rice, coconuts and carrots; aggregate fruits including strawberries, raspberries, blackberries, pawpaw; multiple fruits such as pineapple, fig, mulberries; (see above re all)— are commercially valuable as human food. They are eaten both fresh and as jams, marmalade and other fruit preserves. They are used extensively in manufactured and processed foods (cakes, cookies, baked goods, flavorings, ice cream, yogurt, canned vegetables, frozen vegetables and meals) and beverages such as fruit juices and alcoholic beverages (brandy, fruit beer, wine).[34] Spices like vanilla, black pepper, paprika, and allspice are derived from berries. Olive fruit is pressed for olive oil and similar processing is applied to other oil bearing fruits/vegetables.[35]
+
+Fruits are also used for socializing and gift-giving in the form of fruit baskets and fruit bouquets.[36][37]
+
+Typically, many botanical fruits —"vegetables" in culinary parlance— (including tomato, green beans, leaf greens, bell pepper, cucumber, eggplant, okra, pumpkin, squash, zucchini) are bought and sold daily in fresh produce markets and greengroceries and carried back to kitchens, at home or restaurant, for preparation of meals.[38]
+
+Storage
+All fruits benefit from proper post harvest care, and in many fruits, the plant hormone ethylene causes ripening. Therefore, maintaining most fruits in an efficient cold chain is optimal for post harvest storage, with the aim of extending and ensuring shelf life.[39]
+
+Nutritional value
+
+Comparing fresh fruits for fiber, potassium (K), and vitamin C.[citation needed] Each disk-point refers to a 100 g serving of the fresh fruit named. The size of the disk represents the amount of fiber (as percentage of the recommended daily allowance, RDA) in a serving of fruit (see key at upper right). The amount of vitamin C (as percent RDA) is plotted on the x–axis and the amount of potassium (K), in mg on the y–axis. + Bananas are high in value for fiber and potassium, and oranges for fiber and vitamin C. (Apricots are highest in potassium; strawberries are rich in vitamin C.) Watermelon, providing low levels of both K and vitamin C and almost no fiber, is of least value for the three nutrients together.
+Various culinary fruits provide significant amounts of fiber and water, and many are generally high in vitamin C.[40] An overview of numerous studies showed that fruits (e.g., whole apples or whole oranges) are satisfying (filling) by simply eating and chewing them.[41]
+
+The dietary fiber consumed in eating fruit promotes satiety, and may help to control body weight and aid reduction of blood cholesterol, a risk factor for cardiovascular diseases.[42] Fruit consumption is under preliminary research for the potential to improve nutrition and affect chronic diseases.[43][44] Regular consumption of fruit is generally associated with reduced risks of several diseases and functional declines associated with aging.[45][46][47]
+
+Food safety
+For food safety, the CDC recommends proper fruit handling and preparation to reduce the risk of food contamination and foodborne illness. Fresh fruits and vegetables should be carefully selected; at the store, they should not be damaged or bruised; and precut pieces should be refrigerated or surrounded by ice.
+
+All fruits and vegetables should be rinsed before eating. This recommendation also applies to produce with rinds or skins that are not eaten. It should be done just before preparing or eating to avoid premature spoilage.
+
+Fruits and vegetables should be kept separate from raw foods like meat, poultry, and seafood, as well as from utensils that have come in contact with raw foods. Fruits and vegetables that are not going to be cooked should be thrown away if they have touched raw meat, poultry, seafood, or eggs.
+
+All cut, peeled, or cooked fruits and vegetables should be refrigerated within two hours. After a certain time, harmful bacteria may grow on them and increase the risk of foodborne illness.[48]
+
+Allergies
+Fruit allergies make up about 10 percent of all food related allergies.[49][50]
+
+Nonfood uses
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2021) (Learn how and when to remove this template message)
+Because fruits have been such a major part of the human diet, various cultures have developed many different uses for fruits they do not depend on for food. For example:
+
+
+Porcelain vine is usually planted for its showy, colourful berries.[51]
+Bayberry fruits provide a wax often used to make candles;[52]
+Many dry fruits are used as decorations or in dried flower arrangements (e.g., annual honesty, cotoneaster, lotus, milkweed, unicorn plant, and wheat). Ornamental trees and shrubs are often cultivated for their colorful fruits, including beautyberry, cotoneaster, holly, pyracantha, skimmia, and viburnum.[53]
+Fruits of opium poppy are the source of opium, which contains the drugs codeine and morphine, as well as the biologically inactive chemical theabaine from which the drug oxycodone is synthesized.[54]
+Osage orange fruits are used to repel cockroaches.[55]
+Many fruits provide natural dyes (e.g., cherry, mulberry, sumac, and walnut).[56]
+Dried gourds are used as bird houses, cups, decorations, dishes, musical instruments, and water jugs.
+Pumpkins are carved into Jack-o'-lanterns for Halloween.
+The spiny fruit of burdock or cocklebur inspired the invention of Velcro.[57]
+Coir fiber from coconut shells is used for brushes, doormats, floor tiles, insulation, mattresses, sacking, and as a growing medium for container plants. The shell of the coconut fruit is used to make bird houses, bowls, cups, musical instruments, and souvenir heads.[58]
+Fruit is often a subject of still life paintings.
+See also
+icon	Food portal
+icon	Plants portal
+Fruit tree
+Fruitarianism
+List of countries by fruit production
+List of culinary fruits
+List of foods
+List of fruit dishes
+References
+ Lewis, Robert A. (2002). CRC Dictionary of Agricultural Sciences. CRC Press. ISBN 978-0-8493-2327-0.
+ Schlegel, Rolf H J (2003). Encyclopedic Dictionary of Plant Breeding and Related Subjects. Haworth Press. p. 177. ISBN 978-1-56022-950-6.
+ Mauseth, James D. (2003). Botany: An Introduction to Plant Biology. Jones and Bartlett. pp. 271–72. ISBN 978-0-7637-2134-3.
+ McGee, Harold (2004). On Food and Cooking: The Science and Lore of the Kitchen. Simon & Schuster. pp. 247–48. ISBN 978-0-684-80001-1.
+ For a Supreme Court of the United States ruling on the matter, see Nix v. Hedden.
+ McGee (2004). On Food and Cooking. p. 367. ISBN 978-0-684-80001-1.
+ Lewis (2002). CRC Dictionary of Agricultural Sciences. p. 238. ISBN 978-0-8493-2327-0.
+ "Glossary of Botanical Terms". FloraBase. Western Australian Herbarium. Archived from the original on 8 October 2014. Retrieved 23 July 2014.
+ Esau, K. 1977. Anatomy of seed plants. John Wiley and Sons, New York.
+ [1] Archived December 20, 2010, at the Wayback Machine
+ Mauseth, James D. (2003). Botany: an introduction to plant biology. Boston: Jones and Bartlett Publishers. p. 258. ISBN 978-0-7637-2134-3.
+ Rost, Thomas L.; Weier, T. Elliot; Weier, Thomas Elliot (1979). Botany: a brief introduction to plant biology. New York: Wiley. pp. 135–37. ISBN 978-0-471-02114-8.
+ Mauseth (2003). Botany. Chapter 9: Flowers and Reproduction. ISBN 978-0-7637-2134-3.
+ Singh, Gurcharan (2004). Plants Systematics: An Integrated Approach. Science Publishers. p. 83. ISBN 978-1-57808-351-0.
+ "Sporophore from Encyclopædia Britannica". Archived from the original on 2011-02-22.
+ Schlegel (2003). Encyclopedic Dictionary. p. 16. ISBN 978-1-56022-950-6.
+ Schlegel (2003). Encyclopedic Dictionary. p. 123. ISBN 978-1-56022-950-6.
+ Evolutionary trends in flowering plants. New York: Columbia University Press. 1991. p. 209. ISBN 978-0-231-07328-8.
+ Sinha, Nirmal; Sidhu, Jiwan; Barta, Jozsef; Wu, James; Cano, M. Pilar (2012). Handbook of Fruits and Fruit Processing. John Wiley & Sons. ISBN 978-1-118-35263-2.
+ Mark Abadi (26 May 2018). "A tomato is actually a fruit — but it's a vegetable at the same time". Business Insider. Retrieved 21 November 2019.
+ Smith, James P. (1977). Vascular Plant Families. Eureka, Calif.: Mad River Press. ISBN 978-0-916422-07-3.
+ Esau, K. (1977). Anatomy of seed plants. John Wiley and Sons, New York. ISBN 0-471-24520-8
+ Gupta, Prof. P.K. (2007). Genetics Classical To Modern. Rastogi Publication. pp. 2–134. ISBN 978-81-7133-896-2.
+ "Rgukt.in" (PDF). www.rkv.rgukt.in.
+ McGee (2004). On Food and Cooking. pp. 361–62. ISBN 978-0-684-80001-1.
+ McGee (2004). On Food and Cooking. pp. 364–65. ISBN 978-0-684-80001-1.
+ Schlegel (2003). Encyclopedic Dictionary. p. 282. ISBN 978-1-56022-950-6.
+ Agusti, Manuel; Primo-Millo, Eduardo (2020). The Genus Citrus. Woodhead Publishing. pp. 219–244. ISBN 978-0-12-812163-4.
+ Spiegel-Roy, P.; E.E. Goldschmidt (1996). The Biology of Citrus. Cambridge University Press. pp. 87–88. ISBN 978-0-521-33321-4.
+ Capon, Brian (2005). Botany for Gardeners. Timber Press. pp. 198–99. ISBN 978-0-88192-655-2.
+ Heiser, Charles B. (2003). Weeds in My Garden: Observations on Some Misunderstood Plants. Timber Press. pp. 93–95. ISBN 978-0-88192-562-3.
+ Heiser (2003). Weeds in My Garden. pp. 162–64. ISBN 978-0-88192-562-3.
+ Feldkamp, Susan (2002). Modern Biology. Holt, Rinehart, and Winston. p. 634. ISBN 978-0-88192-562-3.
+ McGee (2004). On Food and Cooking. Chapter 7: A Survey of Common Fruits. ISBN 978-0-684-80001-1.
+ Farrell, Kenneth T. (1999). Spices, Condiments and Seasonings. Springer. pp. 17–19. ISBN 978-0-8342-1337-1.
+ "Best Gift Baskets for the Holidays - Consumer Reports". www.consumerreports.org. Retrieved 2021-03-13.
+ O'Connor, Clare. "How Edible Arrangements Sold $500 Million Of Fruit Bouquets In 2013". Forbes. Retrieved 2021-03-13.[dead link]
+ McGee (2004). On Food and Cooking. Chapter 6: A Survey of Common Vegetables. ISBN 978-0-684-80001-1.
+ Why Cold Chain for Fruits: Kohli, Pawanexh (2008). "Fruits and Vegetables Post-Harvest Care: The Basics". Crosstree Techno-visors. Archived from the original (PDF) on 2016-12-04. Retrieved 2009-09-28.
+ Hulme AC (1970). The Biochemistry of Fruits and Their Products. London & New York: Academic Press.
+ Holt, S. H.; Miller, J. C.; Petocz, P.; Farmakalidis, E. (September 1995). "A satiety index of common foods". European Journal of Clinical Nutrition. 49 (9): 675–690. ISSN 0954-3007. PMID 7498104.
+ Brown, L.; Rosner, B.; Willett, W. W.; Sacks, F. M. (January 1999). "Cholesterol-lowering effects of dietary fiber: a meta-analysis". The American Journal of Clinical Nutrition. 69 (1): 30–42. doi:10.1093/ajcn/69.1.30. ISSN 0002-9165. PMID 9925120.
+ Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, Greenwood DC, Riboli E, Vatten LJ, Tonstad S. (2017). "Fruit and vegetable intake and the risk of cardiovascular disease". International Journal of Epidemiology. 46 (3): 1029–1056. doi:10.1093/ije/dyw319. PMC 5837313. PMID 28338764.
+ Angelino D, Godos J, Ghelfi F, Tieri M, Titta L, Lafranconi A, Marventano S, Alonzo E, Gambera A, Sciacca S, Buscemi S, Ray S, Galvano F, Del Rio D, Grosso G. (2019). "Fruit and vegetable consumption and health outcomes: an umbrella review of observational studies". International Journal of Food Sciences and Nutrition. 70 (6): 652–667. doi:10.1080/09637486.2019.1571021. PMID 30764679. S2CID 73455999.
+ Lim, Stephen S.; Vos, Theo; Flaxman, Abraham D.; Danaei, Goodarz; Shibuya, Kenji; Adair-Rohani, Heather; Amann, Markus; Anderson, H. Ross; Andrews, Kathryn G. (2012-12-15). "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010". Lancet. 380 (9859): 2224–60. doi:10.1016/S0140-6736(12)61766-8. ISSN 1474-547X. PMC 4156511. PMID 23245609.
+ Wang X, Ouyang Y, Liu J, Zhu M, Zhao G, Bao W, Hu FB (2014). "Fruit and vegetable consumption and mortality from all causes, cardiovascular disease, and cancer: systematic review and dose-response meta-analysis of prospective cohort studies". BMJ. 349 (Jul 29): g4490. doi:10.1136/bmj.g4490. PMC 4115152. PMID 25073782.
+ Yip, Cynthia Sau Chun; Chan, Wendy; Fielding, Richard (March 2019). "The Associations of Fruit and Vegetable Intakes with Burden of Diseases: A Systematic Review of Meta-Analyses". Journal of the Academy of Nutrition and Dietetics. 119 (3): 464–481. doi:10.1016/j.jand.2018.11.007. ISSN 2212-2672. PMID 30639206. S2CID 58628014.
+ "Nutrition for Everyone: Fruits and Vegetables – DNPAO – CDC". fruitsandveggiesmatter.gov. Archived from the original on 2009-05-09.
+ "Asthma and Allergy Foundation of America". Aafa.org. Archived from the original on 2012-10-06. Retrieved 2014-04-25.
+ Roy Mankovitz (2010). The Wellness Project. ISBN 978-0-9801584-4-1. Retrieved 2014-04-25.
+ "Porcelain vine". The Morton Arboretum. Archived from the original on 2020-12-25. Retrieved 2020-11-24.
+ K, Amber (December 1, 2001). Candlemas: Feast of Flames. Llewellyn Worldwide. p. 155. ISBN 978-0-7387-0079-3.
+ Adams, Denise Wiles (2004). Restoring American Gardens: An Encyclopedia of Heirloom Ornamental Plants, 1640–1940. Timber Press. ISBN 978-0-88192-619-4.
+ Booth, Martin (1999). Opium: A History. St. Martin's Press. ISBN 978-0-312-20667-3.
+ Cothran, James R. (2003). Gardens and Historic Plants of the Antebellum South. University of South Carolina Press. p. 221. ISBN 978-1-57003-501-2.
+ Adrosko, Rita J. (1971). Natural Dyes and Home Dyeing: A Practical Guide with over 150 Recipes. Courier Dover Publications. ISBN 978-0-486-22688-0.
+ Wake, Warren (2000). Design Paradigms: A Sourcebook for Creative Visualization. John Wiley and Sons. pp. 162–63. ISBN 978-0-471-29976-9.
+ "The Many Uses of the Coconut". The Coconut Museum. Archived from the original on 2006-09-06. Retrieved 2006-09-14.
+Further reading
+Gollner, Adam J. (2010). The Fruit Hunters: A Story of Nature, Adventure, Commerce, and Obsession. Scribner. ISBN 978-0-7432-9695-3
+Watson, R. R., and Preedy, V.R. (2010, eds.). Bioactive Foods in Promoting Health: Fruits and Vegetables. Academic Press. ISBN 978-0-12-374628-3
+External links
+Images of fruit development from flowers at bioimages.Vanderbilt.edu
+Fruit and seed dispersal images at bioimages.Vanderbilt.edu
+Fruit Facts Archived 2020-07-12 at the Wayback Machine from California Rare Fruit Growers, Inc.
+Photo ID of Fruits Archived 2021-01-09 at the Wayback Machine by Capt. Pawanexh Kohli
+"Fruit" . Encyclopædia Britannica (11th ed.). 1911.
+Fruit at Wikipedia's sister projects:
+
+Definitions from Wiktionary
+
+Media from Commons
+
+Quotations from Wikiquote
+
+Recipes from Wikibooks
+vte
+Types of fruits
+vte
+Botany
+vte
+Lists of countries by agricultural output rankings
+vte
+Veganism and vegetarianism
+Authority control: National libraries Edit this at Wikidata	
+GermanyJapanCzech Republic
+Categories: FruitPollination
